@@ -1,6 +1,22 @@
 # week3_assignment - Akıllı Ev (IoT) Kontrol Merkezi
 
+**GitHub Repository:** [https://github.com/alperkaansahbaz/week3_assignment](https://github.com/alperkaansahbaz/week3_assignment)
+
 Evdeki akıllı cihazların durumunu, odalarını ve anlık enerji tüketimlerini reaktif bir şekilde yöneten **Jetpack Compose + Kurumsal MVVM + Coroutines + StateFlow** tabanlı Android uygulaması.
+
+---
+
+## Uygulama Ekran Görüntüleri
+
+| 1. Başlangıç & Canlı Enerji Sayacı (`106.0 W`) | 2. Oda Filtrelemesi (`Salon` - 3 Cihaz) |
+| :---: | :---: |
+| ![Ekran 1](screenshots/1_ana_ekran_reaktif_sayac.png) | ![Ekran 2](screenshots/2_oda_filtreleme_salon.png) |
+
+| 3. Reaktif Durum Değişimi (`1366.0 W`) | 4. Arama Çubuğu Filtrelemesi (`Kamera`) |
+| :---: | :---: |
+| ![Ekran 3](screenshots/3_durum_degisimi_klima_aktif.png) | ![Ekran 4](screenshots/4_arama_cubugu_kamera.png) |
+
+---
 
 ## Mimari ve Ödev İsterleri Uyumu
 
